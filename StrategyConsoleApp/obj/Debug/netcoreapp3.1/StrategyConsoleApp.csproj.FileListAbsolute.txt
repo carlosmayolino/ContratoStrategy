@@ -1,0 +1,13 @@
+C:\Users\NOTEBOOK\source\repos\StrategyConsoleApp\StrategyConsoleApp\bin\Debug\netcoreapp3.1\StrategyConsoleApp.exe
+C:\Users\NOTEBOOK\source\repos\StrategyConsoleApp\StrategyConsoleApp\bin\Debug\netcoreapp3.1\StrategyConsoleApp.deps.json
+C:\Users\NOTEBOOK\source\repos\StrategyConsoleApp\StrategyConsoleApp\bin\Debug\netcoreapp3.1\StrategyConsoleApp.runtimeconfig.json
+C:\Users\NOTEBOOK\source\repos\StrategyConsoleApp\StrategyConsoleApp\bin\Debug\netcoreapp3.1\StrategyConsoleApp.runtimeconfig.dev.json
+C:\Users\NOTEBOOK\source\repos\StrategyConsoleApp\StrategyConsoleApp\bin\Debug\netcoreapp3.1\StrategyConsoleApp.dll
+C:\Users\NOTEBOOK\source\repos\StrategyConsoleApp\StrategyConsoleApp\bin\Debug\netcoreapp3.1\StrategyConsoleApp.pdb
+C:\Users\NOTEBOOK\source\repos\StrategyConsoleApp\StrategyConsoleApp\obj\Debug\netcoreapp3.1\StrategyConsoleApp.csprojAssemblyReference.cache
+C:\Users\NOTEBOOK\source\repos\StrategyConsoleApp\StrategyConsoleApp\obj\Debug\netcoreapp3.1\StrategyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\NOTEBOOK\source\repos\StrategyConsoleApp\StrategyConsoleApp\obj\Debug\netcoreapp3.1\StrategyConsoleApp.AssemblyInfo.cs
+C:\Users\NOTEBOOK\source\repos\StrategyConsoleApp\StrategyConsoleApp\obj\Debug\netcoreapp3.1\StrategyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\NOTEBOOK\source\repos\StrategyConsoleApp\StrategyConsoleApp\obj\Debug\netcoreapp3.1\StrategyConsoleApp.dll
+C:\Users\NOTEBOOK\source\repos\StrategyConsoleApp\StrategyConsoleApp\obj\Debug\netcoreapp3.1\StrategyConsoleApp.pdb
+C:\Users\NOTEBOOK\source\repos\StrategyConsoleApp\StrategyConsoleApp\obj\Debug\netcoreapp3.1\StrategyConsoleApp.genruntimeconfig.cache
